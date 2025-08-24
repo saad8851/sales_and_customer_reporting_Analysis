@@ -7,6 +7,13 @@ Each SQL script serves a specific analytical purpose and leverages advanced SQL 
 
 ---
 
+## Sales & Customer Dashboard (Tableau)
+
+📊 [View Live Dashboard](https://public.tableau.com/app/profile/saad.ali5008/viz/SalesCustomerDashboardsDynamic_17560338778590/SalesDashboard)  
+
+An interactive Tableau dashboard analyzing sales performance and customer growth with dynamic YoY comparisons and filters.
+
+
 ## 📁 Repository Structure
 
 ### 1. `ranking_analysis.sql`
